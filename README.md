@@ -27,6 +27,7 @@ SPIL = ( Subjects' Product Initiatives Laboratory ) considerations ...
 
 ## Folder structures are likely different
 * explore the apparent differences between a Team repo and a User repo
+* consider the default Yser pages and their structure
 
 ## (media)wiki created in media-wiki style
 * decide on uses
